@@ -1,16 +1,11 @@
-# spin
+# Loading Spinner
 
-A new Flutter project.
+Made with Flutter to implement a simple clean loading spinner
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone the project, the main spinner is in the spin.dart file which can be copied and used anywhere, no packages needed.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://user-images.githubusercontent.com/89857357/176301901-6860011b-d26c-44e0-8d8e-fbb0471f34cf.mov
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
